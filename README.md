@@ -31,4 +31,6 @@ follow these steps to push the project to github:
 - NIcholas Oduor
 
 ## License 
-[MIT]
+[MIT]()
+
+ © [Nicholas Oduor]()
