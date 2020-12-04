@@ -1,0 +1,53 @@
+#home,
+#about {
+    text-align: center;
+}
+
+#home {
+    margin-top: 100px;
+}
+
+
+h2 {
+    color: rgb(235, 41, 73);
+}
+
+/* Three columns */
+* {
+    box-sizing: border-box;
+}
+
+/* Create three equal columns that floats next to each other */
+.column {
+    width: 33%;
+    padding: 10px;
+    height: auto;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.row {
+    background-color: rgb(192, 180, 182);
+    display: flex;
+}
+
+.copyright {
+    text-align: center;
+}
+
+@media screen and (min-width: 450px) and (max-width: 750px) {
+    body {
+        background-color: rgb(119, 30, 221);
+    }
+}
+
+@media screen and (min-width: 768px) {
+    body {
+        background-color: rgb(238, 46, 190);
+    }
+}
