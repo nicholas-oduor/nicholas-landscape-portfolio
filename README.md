@@ -9,8 +9,10 @@ This portfolio describes all the lessons that i have learnt throughout the first
     </td>
   </tr>
 </table>
+
 ## DEMO
 this is the clear demonstration:https://github.com/nicholas-oduor/nicholas-landscape-portfolio
+
 ## project instructions:
 follow these steps to push the project to github:
 - git init.
@@ -18,3 +20,9 @@ follow these steps to push the project to github:
 -git commit -m "" .
 -git remote add origin master.
 -git push origin master.
+
+## Built with
+
+- [HTML](https://www.w3schools.com/html/) - HTML tutorial.
+- [CSS](https://www.w3schools.com/css/) - css tutorial.
+- [Javascript](https://www.w3schools.com/js/) - javascrit tutorial.
