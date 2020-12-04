@@ -11,3 +11,10 @@ This portfolio describes all the lessons that i have learnt throughout the first
 </table>
 ## DEMO
 this is the clear demonstration:https://github.com/nicholas-oduor/nicholas-landscape-portfolio
+## project instructions:
+follow these steps to push the project to github:
+- git init.
+-git add .
+-git commit -m "" .
+-git remote add origin master.
+-git push origin master.
