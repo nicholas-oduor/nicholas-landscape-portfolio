@@ -29,3 +29,6 @@ follow these steps to push the project to github:
 
 ## Author
 - NIcholas Oduor
+
+## License 
+[MIT]
