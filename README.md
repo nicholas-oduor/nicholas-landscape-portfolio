@@ -26,3 +26,6 @@ follow these steps to push the project to github:
 - [HTML](https://www.w3schools.com/html/) - HTML tutorial.
 - [CSS](https://www.w3schools.com/css/) - css tutorial.
 - [Javascript](https://www.w3schools.com/js/) - javascrit tutorial.
+
+## Author
+- NIcholas Oduor
