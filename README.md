@@ -32,6 +32,6 @@ follow these steps to push the project to github:<br>
 - NIcholas Oduor
 
 ## License 
-[MIT](https://github.com/nicholas-oduor/nicholas-landscape-portfolio.git)
+[MIT](Nicholas Oduor)
 
  ©[Nicholas Oduor](https://github.com/nicholas-oduor/nicholas-landscape-portfolio)
