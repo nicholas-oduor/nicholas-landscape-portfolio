@@ -15,12 +15,12 @@ this is the clear demonstration:https://github.com/nicholas-oduor/nicholas-lands
 
 ## project instructions:
 
-follow these steps to push the project to github:
--git init.
--git add .
--git commit -m "" .
--git remote add origin master.
--git push origin master.
+follow these steps to push the project to github:<br>
+-git init.<br>
+-git add .<br>
+-git commit -m ""<br>
+-git remote add origin master<br>
+-git push origin master
 
 ## Built with
 
