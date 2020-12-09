@@ -11,7 +11,7 @@ This portfolio describes all the lessons that i have learnt throughout the first
 </table>
 
 ## DEMO
-this is the clear demonstration:https://github.com/nicholas-oduor/nicholas-landscape-portfolio
+this is the clear demonstration:https://nicholas-oduor.github.io/nicholas-landscape-portfolio/
 
 ## project instructions:
 
